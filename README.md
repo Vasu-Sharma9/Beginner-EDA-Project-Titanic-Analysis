@@ -24,6 +24,9 @@ Missing values are handled by filling missing ages with the **median age** and i
 *1. Survival Rate by Passenger Class*
 Bar chart shows survival rates for 1st, 2nd, and 3rd class passengers, highlighting that first-class travelers had the highest survival probability (~62%) compared to about 24% for third-class.
 
+![Survival Rate by Class](images/Screenshot 2025-09-14 145702.png)
+
+
 *2. Age Distribution Histogram*
 Illustrates that the majority of passengers were between **20 and 40 years old**, including children and elderly.
 
@@ -54,4 +57,5 @@ Boxplot demonstrates that higher-class passengers paid notably higher fares, pos
    ```bash
    pip install -r requirements.txt
    ```
+
 
